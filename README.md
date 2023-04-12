@@ -1,0 +1,1 @@
+# Arithmetic-series-and-its-sum
